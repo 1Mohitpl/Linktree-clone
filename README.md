@@ -1,5 +1,5 @@
 
-# Linktree-Projject
+# Linktree-Project
 
 
 This is my Linktree profile 
