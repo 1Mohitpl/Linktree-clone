@@ -9,5 +9,5 @@ This is my Linktree profile
 HTML, CSS, JAVASCRIPT
 ## Demo
 
-linktree-project-mohit.netlify.app
+https://linktree-project-mohit.netlify.app
 
